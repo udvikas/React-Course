@@ -1,0 +1,46 @@
+React is clint-side JS library for building the user interface.
+React makes building the complex, interactive reactive user interface simpler.
+all about building modern, reactive user interface for the web.
+Declarative, component focused approach
+user ==> request to ==> server
+user <== response(HTML page) <== server
+jS runs in the browser --> on Loaded Page 
+
+Section 1:
+
+4). Building Single page applicataion
+React can be used to control parts of HTML page or entire page.
+React can also be used to control the entire front end of  a web applicataion.
+Widget approach(on multipage applicataion)-->  some pages are still rendered on and served by backEnd server
+SPA approach --> Server only sends one html page. thereafter React takes over and control the UI.
+
+5). Alternative to React
+React: Lean and focused component based UI-library. certain features(eg. routing) are
+added via Community packages.
+Angular: Complete component based UI library frameWork packed with features.
+use of TypeScript can be overskill for smaller projects
+Vue JS: Complete component based UI library frameWork packed with features
+A bit less popular than Angular & React.
+features Comparison: Angular > React > Vue JS
+
+9). How to get the most out of it.
+Watch the videos --> Code along & practice --> Debug Error & Explore Solution.
+
+Section 2:
+classes: classes are used by React to create its components.
+
+Section 3: React basics and working with components.
+React embraces a concept called component.
+component: Reusable building blocks in user interface.
+
+Reusability: Don't repeat yourself
+separation of course: Don't do too many things in one and the same place(function)
+Split big chunks of code into multiple smaller functions.
+html + css + JS --> React 
+component are combination of HTML, CSS & JS
+React is all about component and about building these components.
+
+React allows you to build these re-usable
+and reactive components consisting of HTML and JavaScript
+React uses something which is called a declarative approach
+for building these components.
